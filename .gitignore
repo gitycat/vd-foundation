@@ -1,0 +1,4 @@
+node_modules/
+vd-survey-frontend/node_modules/
+vd-survey-frontend/build/
+.env
